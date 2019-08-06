@@ -65,7 +65,8 @@ export default {
         '3712': 'pidContentId',
         // recipient specific
         '3001': 'name',
-        '39fe': 'email'
+        '39fe': 'email',
+        '1035': 'messsageID'
       },
       CLASS_MAPPING: {
         ATTACHMENT_DATA: '3701'
