@@ -55,9 +55,10 @@ export default {
         // email specific
         '0037': 'subject',
         '0c1a': 'senderName',
-        '5d02': 'senderEmail',
+        '0c1f': 'senderEmail',
         '1000': 'body',
         '007d': 'headers',
+        '1035': 'messageID',
         // attachment specific
         '3703': 'extension',
         '3704': 'fileNameShort',
@@ -65,8 +66,7 @@ export default {
         '3712': 'pidContentId',
         // recipient specific
         '3001': 'name',
-        '39fe': 'email',
-        '1035': 'messageID'
+        '39fe': 'email'
       },
       CLASS_MAPPING: {
         ATTACHMENT_DATA: '3701'
