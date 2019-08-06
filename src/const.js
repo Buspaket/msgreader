@@ -66,7 +66,7 @@ export default {
         // recipient specific
         '3001': 'name',
         '39fe': 'email',
-        '1035': 'messsageID'
+        '1035': 'messageID'
       },
       CLASS_MAPPING: {
         ATTACHMENT_DATA: '3701'
